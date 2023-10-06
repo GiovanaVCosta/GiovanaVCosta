@@ -1,9 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0096&height=150&section=header"/>
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+𝒈%20𝒊%20𝒊%20_%20𝒗%20𝒅%20𝒄;&font=Anton&left=true&width=700&height=96&color=FF99D5&vCenter=true&size=45%22" alt=""/>
+
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20GitHub!;%20♡%20;&font=Anton&left=true&width=700&height=96&color=FF99D5&vCenter=true&size=45%22" alt=""/>
 
 
-## Eu tenho conhecimento  básico de:
+## Eu tenho conhecimento  básico de ┐ 
 
 <p align="center">
 
@@ -13,7 +16,7 @@
 </p>
 
 
-## IDE's que utilizo 
+## IDE's que utilizo ┐
 
 <p align="center">
 
