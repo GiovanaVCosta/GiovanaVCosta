@@ -19,7 +19,7 @@
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,android studio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio&theme=dark" />
   </a>
 </p>
 
