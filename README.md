@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0096&height=150&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+𝒈%20𝒊%20𝒊%20_%20𝒗%20𝒅%20𝒄;&font=Anton&left=true&width=700&height=96&color=FF99D5&vCenter=true&size=45%22" alt=""/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+𝒈%20𝒊%20𝒊%20_%20𝒗%20𝒅%20𝒄;&font=Anton&left=true&width=700&height=96&color=FF99D5&vCenter=true&size=45%22" alt=""/> <img align="center" src="https://i.gifer.com/origin/fc/fc4dbc5d7c236d9d10a2f8a3b11b2461_w200.gif">
 
 
 
