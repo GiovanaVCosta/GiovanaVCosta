@@ -6,7 +6,7 @@
 
 
 
-## Eu tenho conhecimento  básico de ┐ 
+## Eu tenho conhecimento muito muito muito básico de ┐ 
 
 <p align="center">
 
